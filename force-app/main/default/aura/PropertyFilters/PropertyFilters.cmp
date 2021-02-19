@@ -25,7 +25,7 @@
         <lightning:slider label="Bedrooms" step="1" min="1" max="6" value="{!v.numberBedrooms}"
                 onchange="{!c.onFilterChange}"/>
 
-        <lightning:slider label="Bathrooms" step="1" min="0" max="6" value="{!v.numberBathrooms}"
+        <lightning:slider label="Bathrooms" step="1" min="1" max="6" value="{!v.numberBathrooms}"
                 onchange="{!c.onFilterChange}"/>
 
         <c:VisualSearchBox modelId="{!v.einsteinVisionModelId}" onPrediction="{!c.onPrediction}" />
