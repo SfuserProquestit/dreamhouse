@@ -51,21 +51,6 @@
             </componentInstanceProperties>
             <componentName>MapCard</componentName>
         </componentInstances>
-        <componentInstances>
-            <componentInstanceProperties>
-                <name>principal</name>
-                <value>200000</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>rate</name>
-                <value>5</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>years</name>
-                <value>30</value>
-            </componentInstanceProperties>
-            <componentName>MortgageCalculator</componentName>
-        </componentInstances>
         <name>right</name>
         <type>Region</type>
     </flexiPageRegions>
